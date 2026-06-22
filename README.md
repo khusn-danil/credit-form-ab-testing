@@ -13,15 +13,14 @@
 ---
 
 ## Структура репозитория
-```text
-├── images/
-│   ├── conversion_and_risks.PNG    # Графики конверсии и рисков с ДИ Уилсона
-│   └── time_distribution.PNG       # График распределения времени с линиями средних
-├── notebooks/
-│   └── credit_form_ab_test.ipynb   # Исходный Jupyter Notebook с аналитикой и тестами
-├── README.md                       # Документация и бизнес-презентация проекта
-└── requirements.txt                # Список зависимостей и библиотек для запуска
-```
+
+* **images/** — папка с графиками для документации
+  * `conversion_and_risks.PNG` — конверсия и риски с ДИ Уилсона
+  * `time_distribution.PNG` — распределение времени с линиями средних
+* **notebooks/** — папка с кодом исследования
+  * `credit_form_ab_test.ipynb` — Jupyter Notebook с аналитикой
+* `README.md` — главная страница проекта и бизнес-презентация
+* `requirements.txt` — список библиотек для запуска проекта
 
 ---
 
