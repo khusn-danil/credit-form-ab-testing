@@ -1,0 +1,7 @@
+pandas
+numpy
+pingouin
+seaborn
+matplotlib
+statsmodels
+kagglehub
